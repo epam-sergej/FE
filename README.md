@@ -1,6 +1,6 @@
 # FE
 
-https://epam-sergej.github.io/FE/
+https://epam-sergej.github.io/FE/index.html
 
 + https://epam-sergej.github.io/FE/http/
   + https://epam-sergej.github.io/FE/http/task-1/readme.txt
