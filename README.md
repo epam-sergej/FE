@@ -1,6 +1,6 @@
 # FE
 
-Site link:
+Site:
 https://epam-sergej.github.io/FE/index.html
 
 + https://epam-sergej.github.io/FE/http/
